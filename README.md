@@ -1,7 +1,7 @@
 
 title: "Fast Food Unhealthiness vs. Popularity Analysis"
 
-short_summary: >
+short_summary: 
   Analyzed the relationship between fast-food menu unhealthiness and restaurant popularity
   using real-world datasets. Built a custom health scoring system and visualizations to explore
   whether more unhealthy menus correlate with higher sales and brand success.
@@ -14,12 +14,12 @@ tech_stack:
   - Jupyter Notebook
   - Kaggle Datasets
 
-problem_statement: >
+problem_statement: 
   Fast food is widely consumed, yet its popularity is often driven by factors beyond nutrition.
   This project investigates whether there is a measurable relationship between how unhealthy
   a restaurant’s menu is and its overall popularity, using data-driven analysis.
 
-approach: >
+approach: 
   Combined two datasets: a fast-food nutrition dataset and a dataset of top U.S. fast-food chains.
   Selected key nutritional variables (calories, sugar, saturated fat, trans fat, sodium) to represent
   unhealthiness. Developed a custom health score inspired by the Nutrient Profile Model (NPM),
@@ -30,7 +30,7 @@ approach: >
   popularity metrics such as systemwide sales, average sales per unit, and total store count.
   Created visualizations including scatter plots, heatmaps, and bar charts to identify patterns.
 
-results_impact: >
+results_impact: 
   The analysis showed that there is no perfect direct correlation between unhealthiness and
   popularity. While many high-revenue chains had moderately high unhealthy scores, the most
   popular chain (McDonald's) did not have the highest unhealthiness rating. This suggests that
@@ -42,4 +42,5 @@ results_impact: >
   cleaning, feature engineering, and visualization. :contentReference[oaicite:0]{index=0}
 
 repo_url: "https://github.com/krame154/fastfoodproject"
+
 image_path: "img/placeholder_project_1.png"
